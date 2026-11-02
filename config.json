@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "version": 1793636685630,
+    "expire": 1825172685630,
+    "api": [
+      "https://panel.gmdkj.xyz",
+      "https://www.gggskj.xyz"
+    ],
+    "notice": ""
+  },
+  "sig": "gkdKbYNyn+gbg/h79uacV+1XmGjRG0GL+k1puUiuN5o8GMqZjr3EpUIddoAiv40zOLc3kh4muQ1j5BoedOfVAw=="
+}
